@@ -40,7 +40,10 @@ post_class: post-template
                             {% endif %}                          
                         </ul>
                     </small>
-                </p>                   
+                </p>               
+                {% if page.source %}
+                <p class="small">Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a></p>
+                {% endif %}
             </div>
             <!-- End Post Date and Author attribution -->
 
