@@ -9,6 +9,7 @@ source:
     headline: 'Sean Parker unloads on Facebook "exploiting" human psychology'
 image: assets/images/articles/2017-11-09-tech-better-way/unlike.png
 comments: false
+published: false
 ---
 
 The founding president of Facebook, Sean Parker, says that they consciously built a system that exploits human vulnerability.
