@@ -9,6 +9,7 @@ source:
     headline: Astronomers to Check Mysterious Interstellar Object for Signs of Technology
 image: assets/images/articles/2017-12-11-interstellar-turpitude/interstellar-object.jpg
 comments: false
+published: false
 ---
 
 The article claims, "The chance of an alien detection is, as always, small. But it’s not zero."
