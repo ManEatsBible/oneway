@@ -8,6 +8,7 @@ source:
     headline: "What will the future look like? Elon Musk speaks at TED2017"
 image: assets/images/articles/2017-04-29-musk-one-planet-depressing/musk.jpg
 comments: false
+published: false
 ---
 
 I always find it fascinating when atheist heroes of science and technology speak about the meaning of life. Carl Sagan, Stephen Hawking, Neil deGrasse Tyson, Richard Dawkins, Bill Gates, Bill Nye, Ray Kurzweil and others have all waxed philosophical about the nature of our existence, and every time they've done it, I've learned something fascinating about their common worldview.
