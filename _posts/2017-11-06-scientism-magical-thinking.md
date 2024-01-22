@@ -5,6 +5,7 @@ author: tc
 passage: Romans 1:22-23
 image: assets/images/articles/2017-11-06-scientism-magical-thinking/fairy-godmother.png
 comments: false
+published: false
 ---
 
 Fairy tales and sci-fi rule the imaginations of our "best and brightest," who are always quick to disparage the biblical worldview as fantasy.  Psychologists call this behavior *projection*, but the Bible calls it *idolatry*.
