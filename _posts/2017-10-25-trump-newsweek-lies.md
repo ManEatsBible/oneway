@@ -8,6 +8,7 @@ source:
     url: http://www.newsweek.com/2017/10/13/donald-trump-white-evangelicals-support-god-677587.html
     headline: 'DOES GOD BELIEVE IN TRUMP? WHITE EVANGELICALS ARE STICKING WITH THEIR "PRINCE OF LIES"'
 comments: false
+published: false
 ---
 
 I'm no fan of Trump or his team of evangelical advisers.  I'm no fan of Hillary Clinton, for that matter (which needs to be said since it seems her name still persists in the media as a Trump adversary for some reason).  If you ask me, they're all liars who don't bear the fruit of the Spirit (Gal 5:22-23).  I'm also no fan of Newsweek.
