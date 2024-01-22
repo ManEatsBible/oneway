@@ -8,6 +8,7 @@ source:
     url: http://www.independent.co.uk/news/science/bible-canaanites-wiped-out-old-testament-israelites-lebanon-descendants-discovered-science-dna-a7862936.html
     headline: "Bible says Canaanites were wiped out by Israelites but scientists just found their descendants living in Lebanon"
 comments: false
+published: false
 ---
 
 A biblical topic is making news headlines this week. The Telegraph "Science" section carries the headline, "Study disproves the Bible's suggestion that the ancient Canaanites were wiped out."
