@@ -44,6 +44,9 @@ post_class: post-template
                 {% if page.source %}
                 <p class="small">Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a></p>
                 {% endif %}
+                {% if page.passage %}
+                <p class="small">Passage: {{ page.passage }}</p>
+                {% endif %}
             </div>
             <!-- End Post Date and Author attribution -->
 
