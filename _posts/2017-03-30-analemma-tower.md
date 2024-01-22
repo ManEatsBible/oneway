@@ -43,7 +43,7 @@ Daily ritual phases for people indwelling this inverted tower are indicated in a
 
 **1 A.M.**: Inurn
 
-![Analemma Daily Cycle](http://oilforlight.com/images/articles/2017-03-30-analemma-tower/analemma-cycle.jpg)
+![Analemma Daily Cycle](https://plainreading.com/assets/images/articles/2017-03-30-analemma-tower/analemma-cycle.jpg)
 
 These are more Catholic terms, if not references to Freemasonry and other cultic beliefs.
 
