@@ -9,6 +9,7 @@ source:
     headline: "Peace Cross of Bladensburg ruled unconstitutional by appeals court"
 image: assets/images/articles/2017-10-20-humanists-win-disfigure-cross/peace-cross.jpg
 comments: false
+published: false
 ---
 
 > In 2014, the American Humanist Association filed a lawsuit asking for the cross to be demolished or altered, such as by removing its arms “to form a non-religious slab or obelisk.”
