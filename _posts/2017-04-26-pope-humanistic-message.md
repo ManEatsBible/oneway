@@ -8,7 +8,7 @@ source:
     headline: "Why the only future worth building includes everyone"
 image: assets/images/articles/2017-04-26-pope-humanistic-message/pope.jpg
 comments: false
-featured: true
+featured: false
 hidden: true
 ---
 
