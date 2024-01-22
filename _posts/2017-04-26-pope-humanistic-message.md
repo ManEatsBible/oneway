@@ -9,7 +9,7 @@ source:
 image: assets/images/articles/2017-04-26-pope-humanistic-message/pope.jpg
 comments: false
 featured: false
-hidden: true
+published: false
 ---
 
 My brief impression of the pope's "surprise" (pre-recorded) TED talk:
