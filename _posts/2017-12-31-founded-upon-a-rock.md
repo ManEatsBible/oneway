@@ -9,6 +9,7 @@ source:
     headline: "Extraterrestrial Intelligence: Where is Everybody?"
 image: assets/images/articles/2017-12-31-founded-upon-a-rock/alien.jpg
 comments: false
+published: false
 ---
 
 Why the news is covering this paper from the 1980s, which was last revised in 2004, is beyond my comprehension, and I could say the same thing about all the UFO news coverage over the last couple weeks. According to [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&q=ufo){:target="_blank"}, searches for UFOs spike every two years. It would be interesting to compare this trend to SETI fundraising cycles.
