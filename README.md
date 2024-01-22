@@ -1,1 +1,1 @@
-# STEDFAST News
+# Plain Reading
