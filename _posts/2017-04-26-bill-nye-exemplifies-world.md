@@ -5,7 +5,7 @@ author: tc
 passage: Genesis 1:27
 image: assets/images/articles/2017-04-26-bill-nye-exemplifies-world/bill-nye-saves-world.jpg
 comments: false
-visible: false
+published: false
 ---
 
 I won't post a link to Bill Nye's recent Netflix episode about the "sexual spectrum" because the Bible advises the faithful to avoid "profane and vain babblings, and oppositions of science falsely so called" (1 Timothy 6:20b).
