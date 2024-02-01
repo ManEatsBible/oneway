@@ -8,6 +8,25 @@ permalink: /about
 <div class="col-md-8 pr-5">
 
 <p>
+  Jesus Christ is the ONE WAY, the only way to the Father. God is love, and His Son is life. Choose love. Choose life.
+</p>
+
+<p>
+  ONE WAY is the message, but our ministries are many:
+</p>
+
+<h5>Rise & Shine Bible Time</h5>
+
+<h5>Got a Question for You</h5>
+
+<h5>Revelation in the Streets!</h5>
+
+<h5>Proving Ground: A Biblical Card Game</h5>
+
+<h5>Sin City Bible Tours</h5>
+
+<h5>Plain Reading</h5>
+<p>
   Plain reading is to humble yourself in God's sight, putting aside all argumentation, vain imagination and philosophies of men, honestly seeking the coherence of the truth by sound exegesis, knowing context and intent by studying all of scripture.
 </p>
     
