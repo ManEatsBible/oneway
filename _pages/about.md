@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-ONE WAY: The Cross
+# ONE WAY: The Cross
 
 Jesus Christ is the ONE WAY, the only way to the Father. God is love, and His Son is life. Choose love. Choose life.
 
