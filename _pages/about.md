@@ -21,7 +21,7 @@ permalink: /about
 
 <h5>Revelation in the Streets!</h5>
 
-<h5>Proving Ground: A Biblical Card Game</h5>
+<h5>Towers and Tabernacles: A Biblical Card Game</h5>
 
 <h5>Sin City Bible Tours</h5>
 
