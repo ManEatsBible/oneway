@@ -1,18 +1,18 @@
 # Site
-name: "Plain Reading"
-title: "Plain Reading"
-description: "Reading the Bible Plainly"
+name: "ONE WAY"
+title: "ONE WAY"
+description: "Jesus Christ is the ONE WAY."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
-disqus: 'plain-reading'
-# mailchimp-list: 'https://plainreading.us3.list-manage.com/subscribe?u=7ee8bb30ad7373bf8dfdfd239&id=f2cf03b92b'
+# disqus: 'oneway'
+# mailchimp-list: 'https://oneway.us3.list-manage.com/subscribe?u=7ee8bb30ad7373bf8dfdfd239&id=f2cf03b92b'
 include: ["_pages"]
 permalink: /:title/
 markdown: kramdown
-email: editor@plainreading.com
-paypal: giving@plainreading.com
+email: onewaypreacher@gmail.com
+paypal: onewaypreacher@gmail.com
 
 # Authors
 authors:
@@ -20,8 +20,8 @@ authors:
     name: TC
     display_name: TC Howitt
     avatar: 'assets/images/avatars/tc.png'
-    email: tc@plainreading.com
-    web: https://plainreading.com
+    email: ManEatsBible@gmail.com
+    web: https://onewaythecross.com
     twitter: https://twitter.com/ManEatsBible
     description: "A Christian extremist and itinerant preacher of the ONE WAY in Jesus Christ."
 
