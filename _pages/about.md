@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-![ONE WAY](/assets/images/logo.png)
+![ONE WAY](/assets/images/logo2.png)
 
 ## ONE WAY: The Cross
 
