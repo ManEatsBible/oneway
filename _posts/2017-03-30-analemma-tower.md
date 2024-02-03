@@ -9,7 +9,7 @@ source:
     headline: ANALEMMA TOWER
 image: assets/images/articles/2017-03-30-analemma-tower/analemma-tower.jpg
 comments: false
-featured: true
+featured: false
 hidden: true
 ---
 
