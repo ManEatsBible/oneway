@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title
+title: God is Love
 author: tc
 passage: 1 John 4:7ff
 source:
