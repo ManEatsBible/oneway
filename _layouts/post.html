@@ -50,15 +50,21 @@ post_class: post-template
             </div>
             <!-- End Post Date and Author attribution -->
 
-            <!-- Post Featured Image -->
+            <!-- Post Featured Image and video -->
+            {% if page.video %}
+            <a href="{{page.video}}">
+            {% endif %}
+                
             {% if page.image %}
-
             {% if site.lazyimages == "enabled" %}
             <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% else %}
             <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
-
+            {% endif %}
+                
+            {% if page.video %}
+            </a>
             {% endif %}
             <!-- End Featured Image -->
 
