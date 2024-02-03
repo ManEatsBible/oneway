@@ -10,4 +10,4 @@ featured: true
 hidden: true
 ---
 
-TC and Elizabeth talk about love while sitting on a public bench. Spoiler alert: God is love.
+TC and Elizabeth talk about love while sitting on a public bench.
