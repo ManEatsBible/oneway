@@ -2,6 +2,7 @@
 layout: post
 title: Prayer Hotline
 author: tc
+image: assets/images/articles/2024-04-19-prayer-hotline/2024-04-19-prayer-hotline.JPG
 comments: false
 featured: true
 published: true
